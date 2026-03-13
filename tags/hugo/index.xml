@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on luoqinqin的个人博客</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on luoqinqin的个人博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 10 Mar 2026 09:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一个 Hugo 博客：从零到一搭建静态站点</title>
+      <link>http://localhost:1313/post/hello-world/</link>
+      <pubDate>Tue, 10 Mar 2026 09:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/post/hello-world/</guid>
+      <description>&lt;h3 id=&#34;为什么选择-hugo&#34;&gt;为什么选择 Hugo？&lt;/h3&gt;&#xA;&lt;p&gt;Hugo 是一款基于 Go 语言开发的静态网站生成器，相比 Jekyll、Hexo 有以下优势：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;编译速度极快（毫秒级生成全站）&lt;/li&gt;&#xA;&lt;li&gt;无需依赖 Node.js/Python 等运行时&lt;/li&gt;&#xA;&lt;li&gt;主题生态丰富，易扩展&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;搭建步骤回顾&#34;&gt;搭建步骤回顾&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;安装 Hugo 二进制文件&lt;/li&gt;&#xA;&lt;li&gt;创建新站点：&lt;code&gt;hugo new site my-ivy-site&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;安装 Ivy 主题：&lt;code&gt;git clone https://github.com/yihui/hugo-ivy.git themes/hugo-ivy&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;配置 &lt;code&gt;config.toml&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;编写第一篇文章：&lt;code&gt;hugo new post/hello-hugo.md&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;本地预览：&lt;code&gt;hugo server -D&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;下一步计划&#34;&gt;下一步计划&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;自定义主题样式（修改 CSS）&lt;/li&gt;&#xA;&lt;li&gt;部署到 GitHub Pages&lt;/li&gt;&#xA;&lt;li&gt;集成评论系统（Waline）&lt;/li&gt;&#xA;&lt;li&gt;增加文章分类和标签&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
